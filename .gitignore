@@ -377,3 +377,4 @@ logs
 # hardhat
 artifacts
 secret.json
+cache
