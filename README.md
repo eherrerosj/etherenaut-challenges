@@ -2,7 +2,7 @@
 Enrique Herreros ([@eherrerosj](https://twitter.com/eherrerosj))  
 March 2022  
 
-Solutions are either commands for the console at ethernaut or smart contracts. They are all under the `solutions` folder.
+You can learn a lot of solidity by hacking smart contracts. You can [play here](https://ethernaut.openzeppelin.com/). My solutions are either commands for the console at ethernaut level page or smart contracts that I have created and used either through Remix (level 3) or directly from VSCode and its console (level 4 onwards). You can check all my solutions in the `solutions` folder.
 
 Exercises:  
 [x] 0. Hello Ethernaut  
