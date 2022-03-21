@@ -13,7 +13,7 @@ Then, copy the original smart contract into and do some changes on it:
 2. Compute the side of the coin the same way that the original smart contract will do to check our choice
 3. Call the original smart contract with the guess
 
-```solidity
+```js
 pragma solidity ^0.7.0;
 
 interface ICoinFlip {
