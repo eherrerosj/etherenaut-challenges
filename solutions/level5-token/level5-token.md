@@ -17,3 +17,5 @@ await contract.balanceOf(level).then(v => v.toString());
 ```
 await contract.transfer(level, player_balance + 1);
 ```
+
+My tx in testnet: https://rinkeby.etherscan.io/tx/0x4cca6c0fa8bda8a66f22cc508ff67eef325438556724dbda5f8bf768e59f6168
