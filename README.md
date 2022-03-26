@@ -10,10 +10,10 @@ Exercises:
 [x] 2. Fallout  
 [x] 3. Coin Flip  
 [x] 4. Telephone  
-[] 5. Token  
-[] 6. Delegation  
-[] 7. Force  
-[] 8. Vault  
+[x] 5. Token  
+[x] 6. Delegation  
+[x] 7. Force  
+[x] 8. Vault  
 [] 9. King  
 [] 10. Re-entrancy  
 [] 11. Elevator  
